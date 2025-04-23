@@ -57,7 +57,7 @@ pip install -r app/requirements.txt
 uvicorn app.main:app --reload
 ```
 
-Visit: [http://localhost:8000/docs](http://localhost:8000/docs) to access the interactive Swagger UI.
+Visit: [http://localhost:8000/docs](http://localhost:8001/docs) to access the interactive Swagger UI.
 
 ---
 
@@ -73,7 +73,7 @@ docker build -t fastapi-pytorch-api .
 docker run -p 8000:8000 fastapi-pytorch-api
 ```
 
-Visit: [http://localhost:8000/docs](http://localhost:8000/docs)
+Visit: [http://localhost:8000/docs](http://localhost:8001/docs)
 
 ---
 
