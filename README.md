@@ -114,7 +114,11 @@ curl -X POST http://localhost:8000/predict \
 
 | Swagger UI | Postman |
 |------------|---------|
-| ![Swagger Screenshot](screenshots/swagger.png) | ![Postman Screenshot](screenshots/postman.png) |
+| ![Swagger Screenshot](screenshot_get1) | ![Postman Screenshot](Screenshot_postman) |
+| ![Swagger Screenshot](screenshot_get2) | 
+| ![Swagger Screenshot](screenshots_predict_demo1) | 
+| ![Swagger Screenshot](screenshots_predict_demo2) | 
+| ![Swagger Screenshot](screenshots_predict_demo3) | 
 
 ---
 
