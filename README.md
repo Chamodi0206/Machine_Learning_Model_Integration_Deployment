@@ -1,6 +1,6 @@
 ---
 
-# 🧠 Machine Learning Model Integration & Deployment (Q2)
+# 🧠 Machine Learning Model Integration & Deployment
 
 This project demonstrates the deployment of a pre-trained PyTorch model as a production-ready API using **FastAPI**. The API accepts structured input data and returns a model prediction. The app is containerized using Docker for consistent, portable deployment across any environment.
 
